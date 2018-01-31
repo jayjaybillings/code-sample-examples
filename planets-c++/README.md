@@ -1,6 +1,6 @@
 # Planets C++ Example
 
-This is a simple code sample that I wrote as an example for those who have never written a code sample before. See [https://jayjaybillings.com/2018/01/31/what-does-a-good-code-sample-look-like/](https://jayjaybillings.com/2018/01/31/what-does-a-good-code-sample-look-like/) for more information.
+This is a simple code sample that I wrote as an example for those who have never written a code sample before. See [my blog article on this topic](https://jayjaybillings.com/2018/01/31/what-does-a-good-code-sample-look-like/) for more information.
 
 This sample computes the static gravitational potential of a configuration of celestial bodies. The example configuration is completely random and the answer is junk, but this should be sufficient for a code sample. The gravitational potential is computed by simple direct summation. This is not efficient for many bodies, but since this is a sample and the number of bodies are small, it is the best way to implement it.
 
