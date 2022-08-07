@@ -3,8 +3,8 @@ This is a project with code samples in multiple languages following the style di
 
 ## Sample Languages
 
-C++ - Simple planet example with some CSV I/O and a Makefile.
-Julia - Barebones Julia example created with PkgTemplates and showing a some basic operations. (Not yet implemented.)
+* C++ - Simple planet example with some CSV I/O and a Makefile.
+* Julia - Barebones Julia example created with PkgTemplates and showing a some basic operations. (Not yet implemented.)
 
 ## A note on licenses and copyrights.
 
